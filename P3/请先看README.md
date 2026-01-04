@@ -1,0 +1,8 @@
+LightGBM.ipynb: 使用optuna优化的单一LightGBM作多分类，结果在submission_LightGBM
+SR_GA.ipynb: 使用简单的符号回归和遗传算法优化因子，结果在submussion_SR_GA
+
+文件夹Agent，（文件Agent不是）
+用本地LLM和langgraph做的Auto-Feature Engineering (自动特征工程)
+控制LLM直接生成因子代码，要求LLM自我控制、自我迭代、自我修改
+通过直接的LightGBM验证因子的有效性
+由于本地的算力限制，可能最终的效果并不会太好

@@ -1,0 +1,1 @@
+{"params": {"learning_rate": 0.056774011398327134, "num_leaves": 51, "max_depth": 6, "objective": "multiclass", "num_class": 7, "metric": "multi_logloss", "verbosity": -1}, "features": ["Temparature", "Humidity", "Moisture", "Soil Type", "Nitrogen", "Potassium", "Phosphorous", "P_K_ratio", "Temp_Hum_Index", "N_interaction"]}

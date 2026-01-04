@@ -1,0 +1,12 @@
+{
+    "learning_rate": 0.09829263879783082,
+    "num_leaves": 61,
+    "max_depth": 6,
+    "min_child_samples": 47,
+    "subsample": 0.7135136419518686,
+    "colsample_bytree": 0.6409854466084727,
+    "objective": "multiclass",
+    "num_class": 7,
+    "metric": "multi_logloss",
+    "verbosity": -1
+}
